@@ -1,0 +1,8 @@
+site_name: Api PRO - Salão99
+edit_uri: https://github.com/thiagocavalcanti/tech-docs/edit/main/docs/
+plugins:
+  - techdocs-core
+nav:
+  - Home: README.md
+  - Autenticação: autenticacao.md
+  - Testes: testes.md
